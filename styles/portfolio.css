@@ -59,6 +59,7 @@ nav a {
     text-decoration: none;
     color: #474747;
 }
+/*nav related End*/
 
 /*header section start*/
 .header {
@@ -95,6 +96,7 @@ nav a {
     margin-top: 5px;
     margin-bottom: 20px;
 }
+/*header section end*/
 
 /*main section start*/
 main {
@@ -116,4 +118,18 @@ main {
 
 .about-info {
     text-align: center;
+}
+
+/*What i do related start*/
+#what-i-do-description {
+    padding: 30px 150px;
+}
+
+.skills-containers {
+    display: flex;
+}
+
+.skill {
+    padding: 30px;
+    gap: 24px;
 }
